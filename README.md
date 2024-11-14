@@ -5,4 +5,4 @@ How to play:
 * you are given the option to study the topic before the quiz
 * while taking the quiz, you have a score, you must get all questions right to pass. if you miss one question, you start over.
 
-* 
+  
